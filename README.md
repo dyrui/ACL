@@ -2,37 +2,9 @@
 
 自定义 订阅转换 配置转换 规则转换 的远程配置：
 
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
-
 修改自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
 
-远程配置短链：`https://7.7.cr/config`
-
-订阅转换短链（原订阅链接需 URL 编码）：
-
-- `https://7.7.cr/v1?url={原订阅链接}` (api.v1.mk)
-- `https://7.7.cr/dler?url={原订阅链接}` (api.dler.io)
-- `https://7.7.cr/scs?url={原订阅链接}` (api.subcsub.com)
-- `https://7.7.cr/tsu?url={原订阅链接}` (api.tsutsu.one)
-
 订阅转换反代（自动去除无节点的分组等功能，项目地址：<https://github.com/zsokami/subcvt-mannix>）：
-
-`https://c.7.cr?{原订阅链接}`
-
-## ACL4SSR_Online_Mannix.ini
-
-去除国家/地区：
-
-https://raw.githubusercontent.com/zsokami/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
-
-远程配置短链：`https://7.7.cr/config-nc`
-
-订阅转换短链（原订阅链接需 URL 编码）：
-
-- `https://7.7.cr/v1-nc?url={原订阅链接}` (api.v1.mk)
-- `https://7.7.cr/dler-nc?url={原订阅链接}` (api.dler.io)
-- `https://7.7.cr/scs-nc?url={原订阅链接}` (api.subcsub.com)
-- `https://7.7.cr/tsu-nc?url={原订阅链接}` (api.tsutsu.one)
 
 ---
 
