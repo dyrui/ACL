@@ -1,11 +1,5 @@
-## ACL4SSR_Online_Full_Mannix.ini
 
-规则转换 的远程配置：
 
-https://github.com/dyrui/ACL/main/ACL_Online_Full.ini
----
-
-### V3
 
 扩展 APP 广告拦截规则，对某些影视/动漫 APP 有加速奇效：
 
