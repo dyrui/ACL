@@ -1,11 +1,8 @@
 ## ACL4SSR_Online_Full_Mannix.ini
 
-自定义 订阅转换 配置转换 规则转换 的远程配置：
+规则转换 的远程配置：
 
-修改自 https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full.ini
-
-订阅转换反代（自动去除无节点的分组等功能，项目地址：<https://github.com/zsokami/subcvt-mannix>）：
-
+https://github.com/dyrui/ACL/blob/main/ACL_Online_Full.ini
 ---
 
 ### V3
@@ -46,28 +43,6 @@ https://raw.githubusercontent.com/zsokami/ACL4SSR/main/hosts
 - 🌍 国外媒体
 - 📺 巴哈姆特
 - 🇰🇷 韩国节点
-
-重命名
-- 🚀 节点选择 -> ✈️ 起飞
-- 🚀 手动切换 -> 👆🏻 指定
-- ♻️ 自动选择 -> ⚡ 低延迟
-- 📺 哔哩哔哩 -> 📺 B站
-- 🎯 全球直连 -> 🛩️ 墙内
-- 🐟 漏网之鱼 -> 🌐 未知站点
-- 🇭🇰 香港节点 -> 🇭🇰 香港
-- 🇨🇳 台湾节点 -> 🇹🇼 台湾
-- 🇸🇬 狮城节点 -> 🇸🇬 新加坡
-- 🇯🇵 日本节点 -> 🇯🇵 日本
-- 🇺🇲 美国节点 -> 🇺🇸 美国
-
-合并
-- 🛑 广告拦截 + 🍃 应用净化 -> 💩 广告
-
-新增
-- 🇨🇳 中国 (含 🇭🇰 香港 🇹🇼 台湾)
-- 🎏 其他
-- 🤖 ‍AI
-
 url-test
 - 延迟测试链接 http://www.gstatic.com/generate_204 -> https://i.ytimg.com/generate_204
 - 间隔时间 300秒 -> 15/30秒
