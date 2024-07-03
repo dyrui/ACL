@@ -2,7 +2,7 @@
 
 规则转换 的远程配置：
 
-https://github.com/dyrui/ACL/blob/main/ACL_Online_Full.ini
+https://github.com/dyrui/ACL/main/ACL_Online_Full.ini
 ---
 
 ### V3
